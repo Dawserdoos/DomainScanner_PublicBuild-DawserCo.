@@ -1,5 +1,5 @@
-# Magic-Bag-of-Tricks
-This is where you can find penetration-testing scripts written by Dawserdoos and crew!
+# DomainScanner_PublicBuild(DawserCo.)
+This is the DomainScanner from Dawserdoos and crew!
 
 
 (ALL SCRIPTS IN THIS REPOSITORY ARE ***AS-IS!!!!!***
